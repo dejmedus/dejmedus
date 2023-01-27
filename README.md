@@ -1,4 +1,4 @@
-## Hi all! 👋
+## Hi all!
 
 🫐 Wannabe web developer, open-sourcer, and knowledge-sharer. I’m interested in tech and all its possibilities for doing good.
 
