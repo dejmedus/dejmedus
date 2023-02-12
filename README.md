@@ -10,7 +10,7 @@
   
   🌼 Ask me about my plants (and remind me to water them).  
 
-  ✉️ Get in touch with me <a href="mailto:email96123@gmail.com" target="_blank">here.</a>
+  ✉️ Get in touch with me <a href="mailto:hi@juliab.dev" target="_blank">here.</a>
 
 <table>
 <tr>
