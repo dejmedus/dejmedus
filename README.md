@@ -6,11 +6,11 @@
 
 🥝 I've used Supabase, Firebase, MongoDB, Prisma, CockroachDB, Sqlite + more to power my recent projects.
 
-  🍓 I’m currently learning about Linux.
+🍓 I’m currently learning about Linux.
   
-  🌼 Ask me about my plants (and remind me to water them).  
+🌼 Ask me about my plants (and remind me to water them).  
 
-  ✉️ Get in touch with me <a href="mailto:hi@juliab.dev" target="_blank">here.</a>
+✉️ Get in touch with me <a href="mailto:hi@juliab.dev" target="_blank">here.</a>
 
 <table>
 <tr>
@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dejmedus&show_icons=true&count_private=true&hide_border=true" align="center"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejmedus" alt="Most used language graph" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejmedus&hide=jupyter%20notebook" alt="Most used language graph" align="center"/>
 </td>
 </tr>
 </table>
