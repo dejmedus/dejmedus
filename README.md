@@ -6,7 +6,7 @@
 
 🥝 I've used Supabase, Firebase, MongoDB, Prisma, CockroachDB, Sqlite + more to power my recent projects.
 
-🍓 I’m currently learning about Linux.
+🍓 I’m currently learning about testing.
   
 🌼 Ask me about my plants (and remind me to water them).  
 
@@ -15,10 +15,10 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=dejmedus&show_icons=true&count_private=true&hide_border=true" align="center"/>
+<img src="https://github-readme-stats-futbrc7ar-dejmedus.vercel.app/api?username=dejmedus&show_icons=true&count_private=true&hide_border=true" align="center"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejmedus&hide=jupyter%20notebook" alt="Most used language graph" align="center"/>
+<img src="https://github-readme-stats-futbrc7ar-dejmedus.vercel.app/api/top-langs/?username=dejmedus&hide=jupyter%20notebook" alt="Most used language graph" align="center"/>
 </td>
 </tr>
 </table>
