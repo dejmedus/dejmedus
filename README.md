@@ -12,7 +12,7 @@
 
 ✉️ Get in touch with me <a href="mailto:hi@juliab.dev" target="_blank">here.</a>
 
-<table>
+<!-- <table>
 <tr>
 <td>
 <img src="https://github-readme-stats-futbrc7ar-dejmedus.vercel.app/api?username=dejmedus&show_icons=true&count_private=true&hide_border=true" align="center"/>
@@ -21,6 +21,6 @@
 <img src="https://github-readme-stats-futbrc7ar-dejmedus.vercel.app/api/top-langs/?username=dejmedus&hide=jupyter%20notebook" alt="Most used language graph" align="center"/>
 </td>
 </tr>
-</table>
+</table> -->
 
 
