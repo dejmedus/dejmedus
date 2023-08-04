@@ -1,16 +1,18 @@
 ## Hi all!
 
-🫐 Aspiring web developer, open sourcer, and knowledge sharer. I’m interested in tech and all its possibilities for doing good.
+🫐 Web developer + aspiring open sourcer and knowledge sharer. I’m interested in tech and all its possibilities for doing good.
 
-🍊 I build things with JavaScript/TypeScript, React/Next.js, Python and Flask + CSS & Tailwind.
+🍊 I build things with JavaScript/TypeScript, React/Next.js, Python and Flask, CSS and Tailwind.
 
 🥝 I've used Supabase, Firebase, MongoDB, Prisma, CockroachDB, Sqlite + more to power my recent projects.
 
-🍓 I’m currently learning about testing.
+🍓 I’m currently learning about CI/CD.
   
 🌼 Ask me about my plants (and remind me to water them).  
 
-✉️ Get in touch with me <a href="mailto:hi@juliab.dev" target="_blank">here.</a>
+✉️ Get in touch with me at <a href="mailto:hi@juliab.dev" target="_blank">hi@juliab.dev.</a>
+
+Need a website? <a href="https://juliab.dev/work-with-me" target="_blank">Let's work together!</a>
 
 <!-- <table>
 <tr>
