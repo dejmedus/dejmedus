@@ -1,8 +1,8 @@
 ## Hi all!
 
-🫐 Web developer + aspiring open sourcer and knowledge sharer. I’m interested in tech and all its possibilities for doing good.
+🫐 Web developer + aspiring open sourcer and knowledge sharer. I’m interested in all techs possibilities for doing good.
 
-🍊 I build things with JavaScript/TypeScript, React/Next.js, Python and Flask, CSS and Tailwind.
+🍊 I build things with JavaScript/TypeScript, React/Next.js, Python/Django, CSS and Tailwind.
 
 🥝 I've used Supabase, Firebase, MongoDB, Prisma, CockroachDB, Sqlite + more to power my recent projects.
 
