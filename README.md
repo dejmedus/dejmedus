@@ -4,7 +4,7 @@
 
 🍊 I build things with JavaScript/TypeScript, React/Next.js, Python/Django, CSS and Tailwind.
 
-🥝 I've used Supabase, Firebase, MongoDB, Prisma, CockroachDB, Sqlite + more to power my recent projects.
+🥝 I've used Supabase, Postgres, AWS + more in recent projects.
 
 🍓 I’m currently learning about CI/CD.
   
