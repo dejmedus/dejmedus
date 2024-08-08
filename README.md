@@ -12,7 +12,7 @@
 
 ✉️ Get in touch with me at <a href="mailto:hi@juliab.dev" target="_blank">hi@juliab.dev.</a>
 
-Need a website? <a href="https://juliab.dev/work-with-me" target="_blank">Let's work together!</a>
+<!-- Need a website? <a href="https://juliab.dev/work-with-me" target="_blank">Let's work together!</a>  -->
 
 <!-- <table>
 <tr>
