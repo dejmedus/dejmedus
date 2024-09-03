@@ -1,12 +1,12 @@
 ## Hi all!
 
-🫐 Web developer + aspiring open sourcer and knowledge sharer. I’m interested in all techs possibilities for doing good.
+🫐 Dev Degree intern at Shopify. I’m interested in all techs possibilities for doing good.
 
 🍊 I build things with JavaScript/TypeScript, React/Next.js, Python/Django, CSS and Tailwind.
 
 🥝 I've used Supabase, Postgres, AWS + more in recent projects.
 
-🍓 I’m currently learning about CI/CD.
+<!-- 🍓 I’m currently learning about Ruby. -->
   
 🌼 Ask me about my plants (and remind me to water them).  
 
