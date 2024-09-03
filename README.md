@@ -6,7 +6,7 @@
 
 🥝 I've used Supabase, Postgres, AWS + more in recent projects.
 
-<!-- 🍓 I’m currently learning about Ruby. -->
+🍓 I’m currently learning more about TypeScript.
   
 🌼 Ask me about my plants (and remind me to water them).  
 
