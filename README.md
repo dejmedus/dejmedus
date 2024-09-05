@@ -1,6 +1,6 @@
 ## Hi all!
 
-🫐 Dev Degree intern at Shopify. I’m interested in all techs possibilities for doing good.
+🫐 Dev Degree intern at Shopify. I’m interested in all tech's possibilities for doing good.
 
 🍊 I build things with JavaScript/TypeScript, React/Next.js, Python/Django, CSS and Tailwind.
 
